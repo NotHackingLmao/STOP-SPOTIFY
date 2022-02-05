@@ -18,4 +18,4 @@ AND done :3
 
 ---------------------------------------------
 
-You still need help? Add me on Discord: HeroEx #1337
+You still need help? Add me on Discord: HeroEx #7295
