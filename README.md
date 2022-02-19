@@ -1,7 +1,7 @@
 # STOP-SPOTIFY
 Two apps to block spotify ads. For people who are poor (Jk)
 
-I would recommend the first one. if you don't like it you can use the second one :D
+I would recommend the second one. if you don't like it you can use the second one :D
 
 I didn´t make it
 
